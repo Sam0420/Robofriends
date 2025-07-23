@@ -25,12 +25,6 @@ This project was built to practice React fundamentals such as **components**, **
 
 ---
 
-## 📸 Preview
-
-> *(Add a screenshot or GIF here to show off the UI)*
-
----
-
 ## 📁 How to Run Locally
 
 ```bash
